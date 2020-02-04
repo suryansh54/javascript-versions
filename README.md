@@ -24,7 +24,7 @@
 8	| ECMAScript 2017	aka ES8 | [Feature List](#ecmascript-2017-aka-es8)
 9	| ECMAScript 2018 aka ES9 | [Feature List](#ecmascript-2018-aka-es9)
 10 | ECMAScript 2019 aka ES10 | [Feature List](#ecmascript-2019-aka-es10)
-11	| ECMAScript 2020 aka ES11 | [Feature List](/#ecmascript-2020-aka-es11)
+11	| ECMAScript 2020 aka ES11 | [Feature List](#ecmascript-2020-aka-es11)
 
 ## ECMAScript 2015 aka ES6
 - [Feature](#link)
