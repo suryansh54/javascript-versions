@@ -5,6 +5,11 @@
 - From 2015 ECMAScript is named by year (ECMAScript 2015).
 - ECMAScript is often abbreviated to ES.
 - **The TC39 Process** The Ecma TC39 committee is responsible for evolving the ECMAScript programming language and authoring the specification. The committee operates by consensus and has discretion to alter the specification as it sees fit. However, the general process for making changes to the specification here https://tc39.es/process-document/
+  - Stage 0 (Strawperson)
+  - Stage 1 (Proposal)
+  - Stage 2 (Draft)
+  - Stage 3 (Candidate)
+  - Stage 4 (Finished)
 
 | Version |	Official Name	| Description
 | --- | --- | --- |
