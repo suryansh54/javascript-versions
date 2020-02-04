@@ -20,14 +20,15 @@
 10 | ECMAScript 2019 aka ES10 | [Feature List](/#link)
 11	| ECMAScript 2020 aka ES11 | [Feature List](/#link)
 
-## ECMAScript 2015
-## ECMAScript 2016
-- [Feature](#link)
-- [Feature](#link)
+## ECMAScript 2015 aka ES6
 - [Feature](#link)
 - [Feature](#link)
 
-## ECMAScript 2017
+## ECMAScript 2016 aka ES7
+- [Array.prototype.includes](#link)
+- [Exponentiation infix operator](#link)
+
+## ECMAScript 2017 aka ES8
 - **Major new features:**
   - [Async Functions](#link)
   - [Shared memory and atomics](#link)
@@ -37,14 +38,14 @@
   - [Object.getOwnPropertyDescriptors()](#link)
   - [Trailing commas in function parameter lists and calls](#link)
 
-## ECMAScript 2018
+## ECMAScript 2018 aka ES9
 - [Object Rest/Spread Properties](#link)
 - [Asynchronous Iteration](#link)
 - [Promise.prototype.finally()](#link)
 - [RegExp related features](#link)
 - [Template Literal Revision](#link)
 
-## ECMAScript 2019
+## ECMAScript 2019 aka ES10
 - [Array.Flat()](#link)
 - [Array.flatMap()](#link)
 - [Object.fromEntries()](#link)
@@ -56,7 +57,7 @@
 - [Array.Sort Stability](#link)
 - [JSON ⊂ ECMAScript (JSON Superset)](#link)
 
-## ECMAScript 2020
+## ECMAScript 2020 aka ES11
 - [String.prototype.matchAll](#link)
 - [import()](#link)
 - [BigInt](#link)
