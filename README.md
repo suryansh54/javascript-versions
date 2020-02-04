@@ -4,6 +4,7 @@
 - ECMAScript is the official name of the language.
 - From 2015 ECMAScript is named by year (ECMAScript 2015).
 - ECMAScript is often abbreviated to ES.
+- **The TC39 Process** The Ecma TC39 committee is responsible for evolving the ECMAScript programming language and authoring the specification. The committee operates by consensus and has discretion to alter the specification as it sees fit. However, the general process for making changes to the specification here https://tc39.es/process-document/
 
 | Version |	Official Name	| Description
 | --- | --- | --- |
