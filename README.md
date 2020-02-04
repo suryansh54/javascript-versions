@@ -14,12 +14,12 @@
 4	| ECMAScript 4	| Never released.
 5	| ECMAScript 5 (2009) | [Feature List](/#link)
 5.1	| ECMAScript 5.1 (2011)	| Editorial changes.
-6	| ECMAScript 2015 aka ES6 | [Feature List](/#link)
-7	| ECMAScript 2016	aka ES7 | [Feature List](/#link)
-8	| ECMAScript 2017	aka ES8 | [Feature List](/#link)
-9	| ECMAScript 2018 aka ES9 | [Feature List](/#link)
-10 | ECMAScript 2019 aka ES10 | [Feature List](/#link)
-11	| ECMAScript 2020 aka ES11 | [Feature List](/#link)
+6	| ECMAScript 2015 aka ES6 | [Feature List](#ecmascript-2015-aka-es6)
+7	| ECMAScript 2016	aka ES7 | [Feature List](#ecmascript-2016-aka-es7)
+8	| ECMAScript 2017	aka ES8 | [Feature List](#ecmascript-2017-aka-es8)
+9	| ECMAScript 2018 aka ES9 | [Feature List](#ecmascript-2018-aka-es9)
+10 | ECMAScript 2019 aka ES10 | [Feature List](#ecmascript-2019-aka-es10)
+11	| ECMAScript 2020 aka ES11 | [Feature List](/#ecmascript-2020-aka-es11)
 
 ## ECMAScript 2015 aka ES6
 - [Feature](#link)
